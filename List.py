@@ -16,3 +16,5 @@ print(type(countries))
 countries[1] = 'Ghana'
 print(countries)
 
+#Method 2: List constructor
+countries2= list(('Royal', 'Bridgerton', 'Chi '))
