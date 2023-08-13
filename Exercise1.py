@@ -1,5 +1,5 @@
 #Building a word replacement program
-sentence = input('Enter Yor Sentence: ')
+sentence = input('Enter Your Sentence: ')
 print('Your sentence is: '+sentence)
 word1 = input('Enter word to replace: ')
 word2 = input('Enter the word to replace it with: ')
