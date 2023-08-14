@@ -1,0 +1,11 @@
+def myFunction():
+    return 5+4 
+
+print(myFunction())
+
+def add_numbers(num1, num2):
+    return num1 + num2
+
+num1 = int(input('Enter first number: '))
+num2 = int(input('Enter second number: ')) 
+print(add_numbers(num1, num2))
