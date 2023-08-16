@@ -20,3 +20,9 @@ del p2 #Deletes everything
 
 class Test:
     pass 
+
+# For inheritance
+class Student():
+    name = 'Jayy'
+    age = 30
+    gender = 'Female'
