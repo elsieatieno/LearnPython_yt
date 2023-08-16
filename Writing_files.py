@@ -8,4 +8,4 @@ file = open('countries.txt', 'a')
 file.write('\n This file has been appended') #Adds the text after existing
 
 new_py = open('new.py','w')
-new_py.write('print("\Testing\")')
+new_py.write('print("Testing")')
